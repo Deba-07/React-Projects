@@ -8,7 +8,8 @@ import Signup from "./Signup"
 import Login from "./Login"
 import PostForm from "./PostForm";
 import PostCard from "./PostCard"
+import AuthLayout from "../components/AuthLayout"
 
 export {
-    Header, Footer, Container, Logo, LogoutBtn, RTE, Signup, Login, PostForm, PostCard
+    Header, Footer, Container, Logo, LogoutBtn, RTE, Signup, Login, PostForm, PostCard, AuthLayout
 }
